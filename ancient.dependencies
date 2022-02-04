@@ -1,0 +1,14 @@
+[
+   {
+   "remote"       : "github",
+   "repository"   : "ArhamDharewa/kernel_asus_msm8937",
+   "target_path"  : "kernel/asus/msm8937",
+   "branch"       : "lineage-18.x"
+   },
+   {
+   "remote"       : "github",
+   "repository"   : "RazaDroidProject/vendor_asus",
+   "target_path"  : "vendor/asus",
+   "branch"       : "lineage-18.x"
+   }
+]
